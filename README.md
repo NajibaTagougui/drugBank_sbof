@@ -6,6 +6,8 @@ parameterisation, evaluated on DrugBank 5.1.10.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 
+Here is a live demo : https://najibatagougui.github.io/SBOF_CHEMICAL/
+
 
 ## Repository layout
 
@@ -24,7 +26,7 @@ Figures, training logs, and model checkpoints are **not** included in the repo.
 
 
 git clone https://github.com/NajibaTagougui/drugBank_sbof.git
-cd rugBank_sbof
+cd drugBank_sbof
 pip install -r requirements.txt
 
 ## Analytic SBOF (fast, CPU)
